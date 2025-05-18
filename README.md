@@ -11,7 +11,7 @@ R 언어를 활용하여 회귀계수 추정의 분산, 잭나이프(Jackknife) 
 - 선형대수학의 핵심 개념 정리 및 회귀분석과의 연결 고찰
 - 회귀모형의 기본 가정에 대한 R 시뮬레이션 설계 및 분석
 - 회귀모형에서 정규성 가정을 다루는 방법론에 대한 논문 리뷰  
-  (논문: *How to Address Non-normality: A Taxonomy of Approaches, Reviewed, and Illustrated*)
+  (*How to Address Non-normality: A Taxonomy of Approaches, Reviewed, and Illustrated*)
 
 
 ---
